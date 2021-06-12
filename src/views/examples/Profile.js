@@ -145,10 +145,12 @@ class Profile extends React.Component {
                       <Col lg="9">
                         <p>
                           I studied Software Engineering because I have a passion and love for making something out of nothing.
-                          <br />
-                          I joined an internship in ASAC to learn web development in order to develop myself and my knowledge in this field.
-                          <br />
-                          I have good knowledge at full stack developer. ( Html , Css , Js , Jquery , php , MySql ) and Java .
+                          <p>
+                            I joined an internship in ASAC to learn web development in order to develop myself and my knowledge in this field.
+                          </p>
+                          <p>
+                            I have good knowledge at full stack developer. ( Html , Css , Js , Jquery , php , MySql ) and Java .
+                          </p>
                         </p>
                         <a href="#pablo" onClick={e => e.preventDefault()}>
                           Show more
