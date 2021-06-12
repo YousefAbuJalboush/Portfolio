@@ -588,7 +588,7 @@ class Landing extends React.Component {
           </section> */}
           
           
-          {/* <section className="section section-lg pt-lg-0 section-contact-us">
+          <section className="section section-lg pt-lg-0 section-contact-us">
             <Container>
               <Row className="justify-content-center mt--300">
                 <Col lg="8">
@@ -662,7 +662,7 @@ class Landing extends React.Component {
                 </Col>
               </Row>
             </Container>
-          </section> */}
+          </section>
           <Download />
         </main>
         <CardsFooter />
