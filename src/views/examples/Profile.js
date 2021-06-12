@@ -56,15 +56,16 @@ class Profile extends React.Component {
                 viewBox="0 0 2560 100"
                 x="0"
                 y="0"
-              >
+              >#333337
                 <polygon
-                  className="fill-white"
+                  // className="fill-white"
+                  className="fill-yousef"
                   points="2560 0 2560 100 0 100"
                 />
               </svg>
             </div>
           </section>
-          <section className="section">
+          <section className="section" style="background-color: #333337 ;">
             <Container>
               <Card className="card-profile shadow mt--300">
                 <div className="px-4">
